@@ -548,7 +548,7 @@ def news_api_data(user_input):
     #clean the data from duplicate records 
     news_data.drop_duplicates(subset=['published_at','name','description'], keep='first', inplace=True)
 
-    news_data.to_csv("report.csv")
+    news_data.to_csv("/db/report.csv")
     #news_data.info()
     bar_news( news_data)
     compound_score_data(news_data)
