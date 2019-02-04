@@ -39,3 +39,12 @@ Google Translate
   <li>Creating pivot tables. Calculating averages, finding highest/lowest values.</li>
   <li>Building charts. Analyzing findings.</li>
 </ul>
+
+### Example Output w/ search term "SpaceX":
+![](https://github.com/zen-gineer/CurrentTrendsTool/blob/master/plots/WordCloud.png)
+![](https://github.com/zen-gineer/CurrentTrendsTool/blob/master/plots/compound_scores_heat_map.png)
+![](https://github.com/zen-gineer/CurrentTrendsTool/blob/master/plots/count_values_heat_map.png)
+![Sentement Analysis per Region](https://github.com/zen-gineer/CurrentTrendsTool/blob/master/plots/fig.png)
+![](https://github.com/zen-gineer/CurrentTrendsTool/blob/master/plots/news_bar_chart.png)
+![Sentement Analysis based on twitter user number of followers (Influencers)](https://github.com/zen-gineer/CurrentTrendsTool/blob/master/plots/output_8_1.png)
+![](https://github.com/zen-gineer/CurrentTrendsTool/blob/master/plots/output_9_1.png)
