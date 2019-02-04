@@ -4,12 +4,12 @@ Jennifer Shtaway, Alena Dudko, Rekha Amer, Shandiz Montazeri
 
 ## Project Overview
 
-<p>Nowadays, advertisement departments and PR agencies are interested in the public response regarding their products. This is why companies such as Business Wire , NUVI, newsapi.aylien.com provide real-time social media  and media monitoring and analytics.</p>
+<p>Nowadays, advertisement departments and PR agencies are interested in the public response regarding their products. This is why companies such as Business Wire , NUVI, newsapi.aylien.com provide real-time social media and media monitoring and analytics.</p>
 
-<p>Our team decided to create a program that takes any user input as keywords, that they would like to analyze. Once a user provides a valid input, the program outputs graphs analyzing sentiment, location, timeline of tweet among other things. Besides, twitter API we also use News API to build graphs around user input to show media trends and tendencies.</p>
+<p>This project will accept any user input keywords for analysis. Once a user provides a valid input, the program scans the internet via API's and webscraping to provide graphs analyzing sentiment, location, timeline of tweet among other things. </p>
 
 
-### Research Questions to Answer
+### Questions this project addresses
 <ul>
     <li>What are the related handles (hashtags) appearing together with the user searched term?</li>
     <li>What is the average sentiment of top-10 influential people (with the highest number of followers) about the target term ?</li>
@@ -30,6 +30,12 @@ News API (newsapi.org)
 Wikipedia
 gmaps
 Google Translate
+
+###Requirements - What you'll need in order to use this code
+Twitter API keys
+
+###Python Packages
+tweepy, vaderSentiment, googletrans, pygeocoder, wikipedia, wordcloud, seaborn, matplotlib, pandas, numpy, BeautifulSoup
 
 ### Project Steps:
     
