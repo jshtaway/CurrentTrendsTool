@@ -1,6 +1,6 @@
 
 # Media and Social Media Monitoring and Analytics.
-Alena Dudko, Jennifer Shtaway, Rekha Amer, Shandiz Montazeri
+Jennifer Shtaway, Alena Dudko, Rekha Amer, Shandiz Montazeri
 
 ## Project Overview
 
