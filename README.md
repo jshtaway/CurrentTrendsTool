@@ -1,5 +1,5 @@
 
-# DataViz-Project-1:  Media and Social Media Monitoring and Analytics.
+# Media and Social Media Monitoring and Analytics.
 Alena Dudko, Jennifer Shtaway, Rekha Amer, Shandiz Montazeri
 
 ## Project Overview
